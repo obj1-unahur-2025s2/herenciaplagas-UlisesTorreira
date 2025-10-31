@@ -1,11 +1,10 @@
-/*
-import example.pepita
 
-describe "group of tests for pepita" {
+import elementos.*
+import plagas.*
 
-  test "pepita has initial energy" {
+describe "requerimiento de las plasgas" {
+  test "obtener el nivel de daño de una plaga cualquiera." {
     assert.equals(100, pepita.energy())
   }
 
 }
-*/
