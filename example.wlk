@@ -28,3 +28,5 @@ object barrio {
   method esBuenoEsto() = barrios.any({e=>e.esBueno()}) 
   method esCopado() = barrios.count({e=>e.esBueno()}) // lista negada de esBueno()
 } 
+
+//pushPruebaPlagas
